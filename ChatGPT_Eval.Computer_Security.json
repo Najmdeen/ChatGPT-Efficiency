@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7df"
+  },
+  "Question": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?",
+  "Option A": "Generational",
+  "Option B": "Blackbox",
+  "Option C": "Whitebox",
+  "Option D": "Mutation-based",
+  "Answer": "C",
+  "ChatGPT's response": "C) Whitebox",
+  "Query_duration": 0.6629760265350342
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e0"
+  },
+  "Question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replaying bytes that a client sent earlier.\n2. An attacker impersonating the server.",
+  "Option A": "True, True",
+  "Option B": "False, False",
+  "Option C": "True, False",
+  "Option D": "False, True",
+  "Answer": "A",
+  "ChatGPT's response": "A) True, True",
+  "Query_duration": 0.5552380084991455
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e1"
+  },
+  "Question": "MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?",
+  "Option A": "The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.",
+  "Option B": "When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket’s maximum lifetime.",
+  "Option C": "When a client connects to a server, the server compares the ticket’s expiration time to the server’s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.",
+  "Option D": "When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC’s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.",
+  "Answer": "C",
+  "ChatGPT's response": "C) When a client connects to a server, the server compares the ticket’s expiration time to the server’s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.",
+  "Query_duration": 1.8533430099487305
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e2"
+  },
+  "Question": "In Message Condentiality, the transmitted message must make sense to only intended",
+  "Option A": "Receiver",
+  "Option B": "Sender",
+  "Option C": "Modulor",
+  "Option D": "Translator",
+  "Answer": "A",
+  "ChatGPT's response": "A) Receiver",
+  "Query_duration": 0.5176041126251221
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e3"
+  },
+  "Question": "Which of the following is a remote Trojan?",
+  "Option A": "Troya",
+  "Option B": "DaCryptic",
+  "Option C": "BankerA",
+  "Option D": "Game-Troj",
+  "Answer": "A",
+  "ChatGPT's response": "B) DaCryptic",
+  "Query_duration": 0.5072271823883057
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e4"
+  },
+  "Question": "______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.",
+  "Option A": "Memory leakage",
+  "Option B": "Buffer-overrun",
+  "Option C": "Less processing power",
+  "Option D": "Inefficient programming",
+  "Answer": "B",
+  "ChatGPT's response": "B) Buffer-overrun",
+  "Query_duration": 0.6138012409210205
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e5"
+  },
+  "Question": "Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.",
+  "Option A": "all instructions that modify segment state",
+  "Option B": "all loads or stores to addresses that are not 0 mod 32",
+  "Option C": "all indirect loads or stores (via an address in a register or variable)",
+  "Option D": "all indirect jumps (via an address in a register or variable)",
+  "Answer": "A",
+  "ChatGPT's response": "A) all instructions that modify segment state",
+  "Query_duration": 0.6168420314788818
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e6"
+  },
+  "Question": "____________ is also a part of darknet that is employed for transferring files anonymously.",
+  "Option A": "Freenet",
+  "Option B": "ARPANET",
+  "Option C": "Stuxnet",
+  "Option D": "Internet",
+  "Answer": "A",
+  "ChatGPT's response": "A) Freenet",
+  "Query_duration": 0.5668349266052246
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e7"
+  },
+  "Question": "Why apps developed in languages like C, C++ is prone to Buffer-overflow?",
+  "Option A": "No string boundary checks in predefined functions",
+  "Option B": "No storage check in the external memory",
+  "Option C": "No processing power check",
+  "Option D": "No database check",
+  "Answer": "A",
+  "ChatGPT's response": "A) No string boundary checks in predefined functions",
+  "Query_duration": 1.264601230621338
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e8"
+  },
+  "Question": "Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not",
+  "Option A": "Joined",
+  "Option B": "Authenticated",
+  "Option C": "Submitted",
+  "Option D": "Shared",
+  "Answer": "B",
+  "ChatGPT's response": "B) Authenticated",
+  "Query_duration": 0.7169468402862549
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7e9"
+  },
+  "Question": "An integer overflow occurs when",
+  "Option A": "an integer expression's result \"wraps around\"; instead of creating a very large number, a very small (or negative) number ends up getting created",
+  "Option B": "an integer is used as if it was a pointer",
+  "Option C": "an integer is used to access a buffer outside of the buffer's bounds",
+  "Option D": "there is no more space to hold integers in the program",
+  "Answer": "D",
+  "ChatGPT's response": "A) an integer expression's result \"wraps around\"; instead of creating a very large number, a very small (or negative) number ends up getting created",
+  "Query_duration": 1.7383110523223877
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ea"
+  },
+  "Question": "Let HH be a Merkle-Damgard hash function is H:X^{\\leq L} \\to TH:X^≤L  →T. Construct a MAC from this HH as follows: \\ \\ S(k,m) = H(k \\| m)  S(k,m)=H(k∥m). This mac is insecure because:",
+  "Option A": "Given H(k \\| m)H(k∥m) anyone can compute H(w \\| k \\| m \\| \\text{PB})H(w∥k∥m∥PB) for any ww",
+  "Option B": "Given H(k \\| m)H(k∥m) anyone can compute H(k \\| m \\| w)H(k∥m∥w) for any ww",
+  "Option C": "Given H(k \\| m)H(k∥m) anyone can compute H(k \\| m \\| \\text{PB} \\| w)H(k∥m∥PB∥w) for any ww",
+  "Option D": "Anyone can compute H( k \\| m )H(k∥m) for any mm",
+  "Answer": "C",
+  "ChatGPT's response": "B)",
+  "Query_duration": 0.6117238998413086
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7eb"
+  },
+  "Question": "Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging system. Alice and Bob are worried that an adversary might compromise one of their computers today, while they are taking the 6.858 final exam, and would then be able to decrypt those messages. Which of the following security properties can address Alice and Bob’s concern?",
+  "Option A": "Authentication.",
+  "Option B": "Deniability.",
+  "Option C": "Forward secrecy",
+  "Option D": "Backward secrecy.",
+  "Answer": "C",
+  "ChatGPT's response": "C) Forward secrecy",
+  "Query_duration": 0.612532377243042
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ec"
+  },
+  "Question": "The AH Protocol provides source authentication and data integrity, but not",
+  "Option A": "Integrity",
+  "Option B": "Privacy",
+  "Option C": "Nonrepudiation",
+  "Option D": "Both A & C",
+  "Answer": "B",
+  "ChatGPT's response": "B) Privacy",
+  "Query_duration": 0.508674144744873
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ed"
+  },
+  "Question": "Which of the following is not a security exploit?",
+  "Option A": "Eavesdropping",
+  "Option B": "Cross-site scripting",
+  "Option C": "Authentication",
+  "Option D": "SQL Injection",
+  "Answer": "C",
+  "ChatGPT's response": "C) Authentication",
+  "Query_duration": 0.5096230506896973
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ee"
+  },
+  "Question": "_______________ is the central node of 802.11 wireless operations.",
+  "Option A": "WPA",
+  "Option B": "Access Point",
+  "Option C": "WAP",
+  "Option D": "Access Port",
+  "Answer": "B",
+  "ChatGPT's response": "B) Access Point",
+  "Query_duration": 0.5428409576416016
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ef"
+  },
+  "Question": "In MD-5 the length of the message digest is",
+  "Option A": 160,
+  "Option B": 128,
+  "Option C": 64,
+  "Option D": 54,
+  "Answer": "B",
+  "ChatGPT's response": "B) 128",
+  "Query_duration": 0.5204989910125732
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f0"
+  },
+  "Question": "What is Nmap?",
+  "Option A": "It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses",
+  "Option B": "It is a network fuzz testing tool",
+  "Option C": "It is a map of the Internet",
+  "Option D": "It is a suite of tools for scripting attacks: probe, construct, encode, inject, wait for response",
+  "Answer": "A",
+  "ChatGPT's response": "A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses",
+  "Query_duration": 1.5933520793914795
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f1"
+  },
+  "Question": "How do you prevent SQL injection?",
+  "Option A": "Escape queries",
+  "Option B": "Interrupt requests",
+  "Option C": "Merge tables",
+  "Option D": "All of the above",
+  "Answer": "A",
+  "ChatGPT's response": "A) Escape queries",
+  "Query_duration": 0.6118440628051758
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f2"
+  },
+  "Question": "What does it mean to \"be stealthy\" during a penetration test?",
+  "Option A": "Performing the tests from an undisclosed location",
+  "Option B": "Using encryption during tests to make the source of attacks impossible to determine",
+  "Option C": "Performing penetration testing without the target organization knowing",
+  "Option D": "Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services",
+  "Answer": "D",
+  "ChatGPT's response": "D) Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services",
+  "Query_duration": 1.2158498764038086
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f3"
+  },
+  "Question": "Which of the following is not a transport layer vulnerability?",
+  "Option A": "Mishandling of undefined, poorly defined variables",
+  "Option B": "The Vulnerability that allows “fingerprinting” & other enumeration of host information",
+  "Option C": "Overloading of transport-layer mechanisms",
+  "Option D": "Unauthorized network access",
+  "Answer": "D",
+  "ChatGPT's response": "A) Mishandling of undefined, poorly defined variables",
+  "Query_duration": 0.9328129291534424
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f4"
+  },
+  "Question": "In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working?",
+  "Option A": "Blinding prevents the server from using the CRT optimization, which is essential to the timing attack.",
+  "Option B": "Blinding changes the p and q primes that are used, so an adversary cannot learn the server’s true p and q values.",
+  "Option C": "Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary’s input and the timing differences.",
+  "Option D": "Blinding adds a random amount of time to the decryption due to the multiplication and division by the blinding random value r, which obscures the timing differences used in the attack.",
+  "Answer": "C",
+  "ChatGPT's response": "C) Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary’s input and the timing differences.",
+  "Query_duration": 1.5284771919250488
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f5"
+  },
+  "Question": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. RS and KM\n2. RS and MR",
+  "Option A": "True, True",
+  "Option B": "False, False",
+  "Option C": "True, False",
+  "Option D": "False, True",
+  "Answer": "D",
+  "ChatGPT's response": "B) False, False",
+  "Query_duration": 0.9182360172271729
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f6"
+  },
+  "Question": "Public key encryption is advantageous over Symmetric key Cryptography because of",
+  "Option A": "Speed",
+  "Option B": "Space",
+  "Option C": "Key exchange",
+  "Option D": "Key length",
+  "Answer": "C",
+  "ChatGPT's response": "C) Key exchange",
+  "Query_duration": 0.6129879951477051
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f7"
+  },
+  "Question": "The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale.",
+  "Option A": "Silk Road",
+  "Option B": "Cotton Road",
+  "Option C": "Dark Road",
+  "Option D": "Drug Road",
+  "Answer": "A",
+  "ChatGPT's response": "A) Silk Road",
+  "Query_duration": 0.5583271980285645
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f8"
+  },
+  "Question": "The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inaccessible using standard web browsers.",
+  "Option A": "Haunted web",
+  "Option B": "World Wide Web",
+  "Option C": "Dark web",
+  "Option D": "Surface web",
+  "Answer": "C",
+  "ChatGPT's response": "C) Dark web",
+  "Query_duration": 0.6684370040893555
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7f9"
+  },
+  "Question": "What does EXE do when the STP solver times out on a constraint query for a particular path?",
+  "Option A": "Assume that the query is satisfiable and continue executing the path.",
+  "Option B": "Assume that the query is not satisfiable and stop executing the path",
+  "Option C": "Restart STP and retry the query, up to a limited number of retries.",
+  "Option D": "Remove a subset of the constraints and retry the query.",
+  "Answer": "B",
+  "ChatGPT's response": "B) Assume that the query is not satisfiable and stop executing the path",
+  "Query_duration": 1.0228900909423828
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7fa"
+  },
+  "Question": "To verify a digital signature we need the",
+  "Option A": "Sender’s Private key",
+  "Option B": "Sender’s Public key",
+  "Option C": "Receiver’s Private key",
+  "Option D": "Receiver’s Public key",
+  "Answer": "B",
+  "ChatGPT's response": "B) Sender’s Public key",
+  "Query_duration": 0.5493807792663574
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7fb"
+  },
+  "Question": "Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true?",
+  "Option A": "You should not use a grammar-based fuzzer, because its adherence to the grammar means it will not find memory errors",
+  "Option B": "Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce",
+  "Option C": "Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find",
+  "Option D": "Fuzzing doesn't find memory errors, it finds crashes and hangs",
+  "Answer": "C",
+  "ChatGPT's response": "C) Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find",
+  "Query_duration": 1.1858422756195068
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7fc"
+  },
+  "Question": "Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”, which of the following statements are false?",
+  "Option A": "Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates.",
+  "Option B": "OCSP stapling allows a server to prove to a browser that its certificate hasn’t been revoked.",
+  "Option C": "DANE makes it difficult for an adversary to launch a SSL stripping attack.",
+  "Option D": "Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site.",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.5117452144622803
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7fd"
+  },
+  "Question": "What tool can be used to perform SNMP enumeration?",
+  "Option A": "DNSlookup",
+  "Option B": "Whois",
+  "Option C": "Nslookup",
+  "Option D": "IP Network Browser",
+  "Answer": "D",
+  "ChatGPT's response": "D) IP Network Browser",
+  "Query_duration": 0.7120528221130371
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7fe"
+  },
+  "Question": "Which among them has the strongest wireless security?",
+  "Option A": "WEP",
+  "Option B": "WPA",
+  "Option C": "WPA2",
+  "Option D": "WPA3",
+  "Answer": "D",
+  "ChatGPT's response": "D) WPA3",
+  "Query_duration": 0.5106229782104492
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a7ff"
+  },
+  "Question": "Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\n1. It would be impossible for services to get a TCP connection to the client web browser.\n2. It would be impossible for okd to run as a non-root user.",
+  "Option A": "True, True",
+  "Option B": "False, False",
+  "Option C": "True, False",
+  "Option D": "False, True",
+  "Answer": "C",
+  "ChatGPT's response": "C) True, False",
+  "Query_duration": 0.7154638767242432
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a800"
+  },
+  "Question": "Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI model?",
+  "Option A": "Physical layer",
+  "Option B": "Data-link Layer",
+  "Option C": "Session layer",
+  "Option D": "Presentation layer",
+  "Answer": "C",
+  "ChatGPT's response": "C) Session layer",
+  "Query_duration": 0.6087400913238525
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a801"
+  },
+  "Question": "Which of the following is an authentication method?",
+  "Option A": "Secret question",
+  "Option B": "Biometric",
+  "Option C": "SMS code",
+  "Option D": "All of the above",
+  "Answer": "D",
+  "ChatGPT's response": "D) All of the above",
+  "Query_duration": 0.5598549842834473
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a802"
+  },
+  "Question": "When does a buffer overflow occur, generally speaking?",
+  "Option A": "when writing to a pointer that has been freed",
+  "Option B": "when copying a buffer from the stack to the heap",
+  "Option C": "when a pointer is used to access memory not allocated to it",
+  "Option D": "when the program notices a buffer has filled up, and so starts to reject requests",
+  "Answer": "C",
+  "ChatGPT's response": "C) when a pointer is used to access memory not allocated to it",
+  "Query_duration": 0.8729872703552246
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a803"
+  },
+  "Question": "A digital signature needs a",
+  "Option A": "Private-key system",
+  "Option B": "Shared-key system",
+  "Option C": "Public-key system",
+  "Option D": "All of them",
+  "Answer": "C",
+  "ChatGPT's response": "C) Public-key system",
+  "Query_duration": 0.5083589553833008
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a804"
+  },
+  "Question": "A packet filter firewall filters at the",
+  "Option A": "Application or transport",
+  "Option B": "Data link layer",
+  "Option C": "Physical Layer",
+  "Option D": "Network or transport layer",
+  "Answer": "D",
+  "ChatGPT's response": "D) Network or transport layer",
+  "Query_duration": 0.5103492736816406
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a805"
+  },
+  "Question": "Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure?",
+  "Option A": "No, an attacker can simply guess the tag for messages",
+  "Option B": "It depends on the details of the MAC",
+  "Option C": "Yes, the attacker cannot generate a valid tag for any message",
+  "Option D": "Yes, the PRG is pseudorandom",
+  "Answer": "A",
+  "ChatGPT's response": "A) No, an attacker can simply guess the tag for messages",
+  "Query_duration": 0.7629990577697754
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a806"
+  },
+  "Question": "Which of the following deals with network intrusion detection and real-time traffic analysis?",
+  "Option A": "John the Ripper",
+  "Option B": "L0phtCrack",
+  "Option C": "Snort",
+  "Option D": "Nessus",
+  "Answer": "C",
+  "ChatGPT's response": "C) Snort",
+  "Query_duration": 0.5628988742828369
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a807"
+  },
+  "Question": "The Message condentiality or privacy means that the sender and the receiver expect",
+  "Option A": "Integrity",
+  "Option B": "Condentiality",
+  "Option C": "Authentication",
+  "Option D": "Nonrepudiation",
+  "Answer": "B",
+  "ChatGPT's response": "B) Condentiality",
+  "Query_duration": 0.5116729736328125
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a808"
+  },
+  "Question": "When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression which is called _____________",
+  "Option A": "AP-handshaking",
+  "Option B": "4-way handshake",
+  "Option C": "4-way connection",
+  "Option D": "wireless handshaking",
+  "Answer": "B",
+  "ChatGPT's response": "B) 4-way handshake",
+  "Query_duration": 0.5842299461364746
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a809"
+  },
+  "Question": "Message authentication is a service beyond",
+  "Option A": "Message Condentiality",
+  "Option B": "Message Integrity",
+  "Option C": "Message Splashing",
+  "Option D": "Message Sending",
+  "Answer": "B",
+  "ChatGPT's response": "B) Message Integrity",
+  "Query_duration": 0.6398746967315674
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80a"
+  },
+  "Question": "Which of the following are most vulnerable to injection attacks?",
+  "Option A": "Session IDs",
+  "Option B": "Registry keys",
+  "Option C": "Network communications",
+  "Option D": "SQL queries based on user input",
+  "Answer": "D",
+  "ChatGPT's response": "D) SQL queries based on user input",
+  "Query_duration": 0.6124289035797119
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80b"
+  },
+  "Question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replacing bytes sent by a client with bytes of the attacker’s own choosing.\n2. An attacker reading the plaintext bytes sent by a client.",
+  "Option A": "True, True",
+  "Option B": "False, False",
+  "Option C": "True, False",
+  "Option D": "False, True",
+  "Answer": "A",
+  "ChatGPT's response": "A) True, True",
+  "Query_duration": 0.7155988216400146
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80c"
+  },
+  "Question": "Which of the following is a Wireless traffic Sniffing tool?",
+  "Option A": "Maltego",
+  "Option B": "BurpSuit",
+  "Option C": "Nessus",
+  "Option D": "Wireshark",
+  "Answer": "D",
+  "ChatGPT's response": "D) Wireshark",
+  "Query_duration": 0.5261287689208984
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80d"
+  },
+  "Question": "A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or its information.",
+  "Option A": "front-door",
+  "Option B": "backdoor",
+  "Option C": "clickjacking",
+  "Option D": "key-logging",
+  "Answer": "B",
+  "ChatGPT's response": "B) backdoor",
+  "Query_duration": 0.5957210063934326
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80e"
+  },
+  "Question": "Which of the following is not a block cipher operating mode?",
+  "Option A": "ECB",
+  "Option B": "CFB",
+  "Option C": "CBF",
+  "Option D": "CBC",
+  "Answer": "C",
+  "ChatGPT's response": "C) CBF",
+  "Query_duration": 0.6851511001586914
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a80f"
+  },
+  "Question": "What is a web proxy?",
+  "Option A": "A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server",
+  "Option B": "An agent that makes decisions on the client's behalf when interacting with web applications",
+  "Option C": "A piece of software that makes a web application look like a standalone application, making it easier to test",
+  "Option D": "A simulator for the web, for use when off-line",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.42413783073425293
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a810"
+  },
+  "Question": "Buffer-overflow may remain as a bug in apps if __________ are not done fully.",
+  "Option A": "boundary hacks",
+  "Option B": "memory checks",
+  "Option C": "boundary checks",
+  "Option D": "buffer checks",
+  "Answer": "C",
+  "ChatGPT's response": "C) boundary checks",
+  "Query_duration": 0.6271770000457764
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a811"
+  },
+  "Question": "Applications developed by programming languages like ____ and ______ have this common buffer-overflow error.",
+  "Option A": "C, Ruby",
+  "Option B": "Python, Ruby",
+  "Option C": "C, C++",
+  "Option D": "Tcl, C#",
+  "Answer": "C",
+  "ChatGPT's response": "C) C, C++",
+  "Query_duration": 0.8135738372802734
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a812"
+  },
+  "Question": "Encryption and decryption provide secrecy, or condentiality, but not",
+  "Option A": "Authentication",
+  "Option B": "Integrity",
+  "Option C": "Privacy",
+  "Option D": "All of the above",
+  "Answer": "B",
+  "ChatGPT's response": "D) All of the above",
+  "Query_duration": 0.5139110088348389
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a813"
+  },
+  "Question": "A/an ___________ is a program that steals your logins & passwords for instant messaging applications.",
+  "Option A": "IM – Trojans",
+  "Option B": "Backdoor Trojans",
+  "Option C": "Trojan-Downloader",
+  "Option D": "Ransom Trojan",
+  "Answer": "A",
+  "ChatGPT's response": "A) IM – Trojans",
+  "Query_duration": 0.6110279560089111
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a814"
+  },
+  "Question": "The sub key length at each round of DES is__________",
+  "Option A": 32,
+  "Option B": 56,
+  "Option C": 48,
+  "Option D": 64,
+  "Answer": "B",
+  "ChatGPT's response": "C) 48",
+  "Query_duration": 0.4972078800201416
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a815"
+  },
+  "Question": "Which of the following is true of mutation-based fuzzing?",
+  "Option A": "It generates each different input by modifying a prior input",
+  "Option B": "It works by making small mutations to the target program to induce faults",
+  "Option C": "Each input is mutation that follows a given grammar",
+  "Option D": "It only makes sense for file-based fuzzing, not network-based fuzzing",
+  "Answer": "A",
+  "ChatGPT's response": "A) It generates each different input by modifying a prior input",
+  "Query_duration": 0.7286336421966553
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a816"
+  },
+  "Question": "What are the types of scanning?",
+  "Option A": "Port, network, and services",
+  "Option B": "Network, vulnerability, and port ",
+  "Option C": "Passive, active, and interactive",
+  "Option D": "Server, client, and network",
+  "Answer": "B",
+  "ChatGPT's response": "B) Network, vulnerability, and port",
+  "Query_duration": 0.8158121109008789
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a817"
+  },
+  "Question": "A sender must not be able to deny sending a message that was sent, is known as",
+  "Option A": "Message Nonrepudiation",
+  "Option B": "Message Integrity",
+  "Option C": "Message Condentiality",
+  "Option D": "Message Sending",
+  "Answer": "A",
+  "ChatGPT's response": "A) Message Nonrepudiation",
+  "Query_duration": 0.716658353805542
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a818"
+  },
+  "Question": "A proxy rewall lters at the",
+  "Option A": "Physical layer",
+  "Option B": "Application layer",
+  "Option C": "Data link layer",
+  "Option D": "Network layer",
+  "Answer": "B",
+  "ChatGPT's response": "B) Application layer",
+  "Query_duration": 0.6102731227874756
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a819"
+  },
+  "Question": "Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol?",
+  "Option A": "Secure Socket Layer Protocol",
+  "Option B": "Secure IP Protocol",
+  "Option C": "Secure Http Protocol",
+  "Option D": "Transport Layer Security Protocol",
+  "Answer": "B",
+  "ChatGPT's response": "B) Secure IP Protocol",
+  "Query_duration": 0.614016056060791
+},
+{
+  "_id": {
+    "$oid": "655fc71ce8cfbfc34e14a81a"
+  },
+  "Question": "A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to access into the Tor’s network and use various Tor services.",
+  "Option A": "Opera browser",
+  "Option B": "Firefox",
+  "Option C": "Chrome",
+  "Option D": "Tor browser",
+  "Answer": "D",
+  "ChatGPT's response": "D) Tor browser",
+  "Query_duration": 0.60764479637146
+}]

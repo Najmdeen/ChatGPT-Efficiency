@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a859"
+  },
+  "Question": "Mass-society theory suggests that:",
+  "Option A": "the content of the media is determined by market forces",
+  "Option B": "the subordinate classes are dominated by the ideology of the ruling class",
+  "Option C": "the media manipulate 'the masses' as vulnerable, passive consumers",
+  "Option D": "audiences make selective interpretations of media messages",
+  "Answer": "C",
+  "ChatGPT's response": "C) the media manipulate 'the masses' as vulnerable, passive consumers",
+  "Query_duration": 0.9458510875701904
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85a"
+  },
+  "Question": "The ecological approach to urban sociology involved studying:",
+  "Option A": "how social groups colonized different areas of the city and competed for resources",
+  "Option B": "the forms of wildlife and natural habitats that could be found on the edges of the city",
+  "Option C": "the way in which people organized collective protests about environmental issues",
+  "Option D": "how men and women used the city's public spaces differently",
+  "Answer": "A",
+  "ChatGPT's response": "A) how social groups colonized different areas of the city and competed for resources",
+  "Query_duration": 1.0020909309387207
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85b"
+  },
+  "Question": "Becker proclaimed that cannabis use was:",
+  "Option A": "increasing throughout all sections of youth in the 1970s",
+  "Option B": "learned gradually through the social processes of a deviant career",
+  "Option C": "a dangerous pastime that young people should not be allowed to pursue",
+  "Option D": "not as enjoyable as other sociologists had suggested",
+  "Answer": "B",
+  "ChatGPT's response": "B) learned gradually through the social processes of a deviant career",
+  "Query_duration": 0.8315579891204834
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85c"
+  },
+  "Question": "The middle classes that developed over the nineteenth century were:",
+  "Option A": "an urban set, involved in civic bodies and voluntary associations",
+  "Option B": "too diverse to have a strong sense of class consciousness",
+  "Option C": "often involved in 'white collar' work",
+  "Option D": "all of the above",
+  "Answer": "D",
+  "ChatGPT's response": "D) all of the above",
+  "Query_duration": 0.6176238059997559
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85d"
+  },
+  "Question": "Technological forms of surveillance have made it easier to:",
+  "Option A": "access and exchange 'private' information about consumers",
+  "Option B": "reduce prison overcrowding by the use of electronic tagging",
+  "Option C": "monitor employees' activities at work",
+  "Option D": "all of the above",
+  "Answer": "D",
+  "ChatGPT's response": "D) all of the above",
+  "Query_duration": 0.6120030879974365
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85e"
+  },
+  "Question": "The concept of gemeinschaft developed by Ferdinand Tönnies describes basically the same relational characteristics as",
+  "Option A": "organic solidarity",
+  "Option B": "mechanical solidarity",
+  "Option C": "gesellschaft",
+  "Option D": "anomie",
+  "Answer": "B",
+  "ChatGPT's response": "B) mechanical solidarity",
+  "Query_duration": 0.7120077610015869
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a85f"
+  },
+  "Question": "There was a growth in income inequality in the 1980s because:",
+  "Option A": "rates of income tax increased equally for all occupational groups",
+  "Option B": "there were more professional jobs available but not enough people to fill them",
+  "Option C": "the price of consumer goods rose at a higher rate than earnings",
+  "Option D": "growing unemployment made more people dependent on welfare benefits",
+  "Answer": "D",
+  "ChatGPT's response": "D) growing unemployment made more people dependent on welfare benefits",
+  "Query_duration": 0.7760751247406006
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a860"
+  },
+  "Question": "If a deviant act is 'normalized', it is:",
+  "Option A": "recognised as breaking an important norm of behaviour",
+  "Option B": "seen a temporary aberration from an otherwise 'normal' character",
+  "Option C": "the first step in establishing a deviant career",
+  "Option D": "attributed to the person's genetic or anatomical make up",
+  "Answer": "B",
+  "ChatGPT's response": "A) recognised as breaking an important norm of behaviour",
+  "Query_duration": 1.4744830131530762
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a861"
+  },
+  "Question": "In the debate about the 'managerial revolution', John Scott (1997) argued that:",
+  "Option A": "owners still exercised control through groups of shareholders and interlocking directorships",
+  "Option B": "ownership and management were becoming increasingly separate functions",
+  "Option C": "the techniques of scientific management were overly bureaucratic and inefficient",
+  "Option D": "managers were becoming dissatisfied with their working conditions and planned to overthrow the owners of businesses",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.515451192855835
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a862"
+  },
+  "Question": "Marxist feminists explain patriarchy in terms of:",
+  "Option A": "a lack of equal rights and opportunities for men and women",
+  "Option B": "sex classes, through which men oppress women economically, politically and sexually",
+  "Option C": "women's domestic labour being exploited by the capitalist economy",
+  "Option D": "the dual systems of capitalism and male domination",
+  "Answer": "C",
+  "ChatGPT's response": "C) women's domestic labour being exploited by the capitalist economy",
+  "Query_duration": 0.9142708778381348
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a863"
+  },
+  "Question": "Which of the following was not defined by Giddens (1998) as part of New Labour's 'third way':",
+  "Option A": "the democratization of the family",
+  "Option B": "putting an end to privatization",
+  "Option C": "positive welfare: 'a hand up, not a hand-out'",
+  "Option D": "the strengthening of civil society",
+  "Answer": "B",
+  "ChatGPT's response": "B) putting an end to privatization",
+  "Query_duration": 0.8155100345611572
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a864"
+  },
+  "Question": "Anti-psychiatrists like Laing & Esterson believed that:",
+  "Option A": "Psychiatry was an out-moded form of treatment and should be replaced by alternative therapies like aromatherapy and kinesiology",
+  "Option B": "Mental illnesses were biological in origin, so there was no point in studying 'the mind' as experienced by the patient",
+  "Option C": "Psychiatrists were agents of capitalism who tried to instill ruling class ideology into their patients",
+  "Option D": "Behaviour that seemed bizarre could be seen as a reasonable response to disturbed patterns of family interaction",
+  "Answer": "D",
+  "ChatGPT's response": "D) Behaviour that seemed bizarre could be seen as a reasonable response to disturbed patterns of family interaction",
+  "Query_duration": 1.2268829345703125
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a865"
+  },
+  "Question": "Butler & Stokes (1969) suggested that working class support for the Labour Party arose from:",
+  "Option A": "socialization into working class families and communities",
+  "Option B": "rational calculation of self-interest",
+  "Option C": "issue-based concerns about culture and lifestyle",
+  "Option D": "false consciousness and the acceptance of hegemonic values",
+  "Answer": "A",
+  "ChatGPT's response": "A) socialization into working class families and communities",
+  "Query_duration": 0.7158381938934326
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a866"
+  },
+  "Question": "In contemporary societies, social institutions are:",
+  "Option A": "highly specialized, interrelated sets of social practices",
+  "Option B": "disorganized social relations in a postmodern world",
+  "Option C": "virtual communities in cyberspace",
+  "Option D": "no longer relevant to sociology",
+  "Answer": "A",
+  "ChatGPT's response": "A) highly specialized, interrelated sets of social practices",
+  "Query_duration": 0.8263177871704102
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a867"
+  },
+  "Question": "The term 'emotion work' (Hochschild 1983) refers to:",
+  "Option A": "the techniques used to consciously manage and present emotions that are deemed appropriate for public settings of interaction",
+  "Option B": "the work done by psychologists, counselors and therapists to help clients with mental and emotional problems",
+  "Option C": "experiences such as grieving and falling in love, which demand a lot of emotional energy from a person",
+  "Option D": "the way in which increasing levels of risk and anxiety have made us think more reflexively about our self-identities",
+  "Answer": "A",
+  "ChatGPT's response": "A) the techniques used to consciously manage and present emotions that are deemed appropriate for public settings of interaction",
+  "Query_duration": 1.1102290153503418
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a868"
+  },
+  "Question": "When sociologists study the structure of layers in society and people's movement between them, they call this:",
+  "Option A": "social stratification",
+  "Option B": "social control",
+  "Option C": "social conflict",
+  "Option D": "social solidarity",
+  "Answer": "A",
+  "ChatGPT's response": "A) social stratification",
+  "Query_duration": 1.6361029148101807
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a869"
+  },
+  "Question": "The four ideal types of social action that Weber identified were as follows: instrumentally-rational, value-rational, traditional, and...",
+  "Option A": "affectual",
+  "Option B": "affective",
+  "Option C": "effective",
+  "Option D": "infected",
+  "Answer": "A",
+  "ChatGPT's response": "A) affectual",
+  "Query_duration": 0.6103570461273193
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86a"
+  },
+  "Question": "An ecclesia is:",
+  "Option A": "a religious organization that claims total spiritual authority over its members",
+  "Option B": "a church organized around voluntary rather than compulsory membership",
+  "Option C": "a sect or cult with a very small following",
+  "Option D": "a hierarchy of priests or other spiritual leaders",
+  "Answer": "A",
+  "ChatGPT's response": "A) a religious organization that claims total spiritual authority over its members",
+  "Query_duration": 1.0223181247711182
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86b"
+  },
+  "Question": "After slavery was abolished in the USA and British Empire, policy makers claimed that former slaves migrating to these cities would experience:",
+  "Option A": "assimilation",
+  "Option B": "adaptation",
+  "Option C": "discrimination",
+  "Option D": "compensation",
+  "Answer": "A",
+  "ChatGPT's response": "C) discrimination",
+  "Query_duration": 0.4959290027618408
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86c"
+  },
+  "Question": "Sutherland's study of the 'professional thief' suggested that:",
+  "Option A": "people are socialized into a life of crime by associating with others who define it in positive terms",
+  "Option B": "the majority of crime is committed by middle class people in professional occupations",
+  "Option C": "those who were arrested and charged with theft did not define themselves as thieves",
+  "Option D": "the most dangerous criminals on the street were those who were highly skilled thieves",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.5222878456115723
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86d"
+  },
+  "Question": "Which of the following policies did the New Labour government not pursue?",
+  "Option A": "setting and streaming pupils by ability",
+  "Option B": "parental choice of school",
+  "Option C": "supporting LEAs that appeared to be failing",
+  "Option D": "state regulation and control of the curriculum",
+  "Answer": "C",
+  "ChatGPT's response": "C) supporting LEAs that appeared to be failing",
+  "Query_duration": 1.431912899017334
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86e"
+  },
+  "Question": "Stone's research suggests that prior to industrialization, the nuclear family:",
+  "Option A": "did not exist in any form",
+  "Option B": "had begun to disappear, as extended networks of kin became more important",
+  "Option C": "had begun to emerge through the separation of work and home life",
+  "Option D": "was simply another institution of patriarchal control",
+  "Answer": "C",
+  "ChatGPT's response": "C) had begun to emerge through the separation of work and home life",
+  "Query_duration": 0.9198307991027832
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a86f"
+  },
+  "Question": "Statistics about rural, suburban, and urban patterns of development and mobility are almost always reported based on a geographical area labeled as Metropolitan Statistical Areas (MSA). What constitutes an MSA?",
+  "Option A": "It includes only the 10 largest cities in the United States.",
+  "Option B": "It is composed of at least one central city with a population of at least 50,000 and it surrounds densely urbanized counties.",
+  "Option C": "It is an area that experiences strong storms at least 50 percent of the year.",
+  "Option D": "It is a large city with a population of at least 1 million and is immediately surrounded by suburbs.",
+  "Answer": "B",
+  "ChatGPT's response": "B) It is composed of at least one central city with a population of at least 50,000 and it surrounds densely urbanized counties.",
+  "Query_duration": 1.5328700542449951
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a870"
+  },
+  "Question": "Mosca and Pareto identified the ruling elite as:",
+  "Option A": "a minority group who fill all the top positions of political authority",
+  "Option B": "a coalition of social forces with specific skills and abilities",
+  "Option C": "a group who circulate between high status positions and exclude others",
+  "Option D": "all of the above",
+  "Answer": "D",
+  "ChatGPT's response": "A) a minority group who fill all the top positions of political authority",
+  "Query_duration": 0.7444190979003906
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a871"
+  },
+  "Question": "Bourdieu attributed the reproduction of class to:",
+  "Option A": "cults of the capital",
+  "Option B": "capital culture",
+  "Option C": "cultural capital",
+  "Option D": "culpable capture",
+  "Answer": "C",
+  "ChatGPT's response": "C) cultural capital",
+  "Query_duration": 0.6838231086730957
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a872"
+  },
+  "Question": "Secularization involves the two related ideas of:",
+  "Option A": "disappointment and disproportion",
+  "Option B": "disbelief and disintegration",
+  "Option C": "disengagement and disenchantment",
+  "Option D": "distribution and distillation",
+  "Answer": "C",
+  "ChatGPT's response": "C) disengagement and disenchantment",
+  "Query_duration": 0.6088566780090332
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a873"
+  },
+  "Question": "The general fertility rate fell between 1964 and 2000 because of:",
+  "Option A": "increases in the age of marriage and the age at which childbearing begins",
+  "Option B": "there being fewer women of childbearing age than there were in the first half of the century",
+  "Option C": "errors in the measurement of birth rates and production of statistics",
+  "Option D": "the risk of diseases caused by poverty, poor housing and bad sanitation",
+  "Answer": "A",
+  "ChatGPT's response": "A) increases in the age of marriage and the age at which childbearing begins",
+  "Query_duration": 0.9192099571228027
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a874"
+  },
+  "Question": "Howard's idea of the garden city consisted of:",
+  "Option A": "six small towns surrounded by green belts and linked to a larger central city",
+  "Option B": "planning cities to have plenty of trees, flowers and public gardens",
+  "Option C": "each privately owned house to have its own front and back garden",
+  "Option D": "tower blocks to displace the population vertically and leave most of the land available as green open spaces",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.5121903419494629
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a875"
+  },
+  "Question": "The 'third age' of the life course is said to involve:",
+  "Option A": "active non-work and independence after retirement",
+  "Option B": "full time employment, family-building and adult responsibility",
+  "Option C": "illness, isolation and increasing dependence on others",
+  "Option D": "the transition from education to work, and distinctive youth cultures",
+  "Answer": "A",
+  "ChatGPT's response": "A) active non-work and independence after retirement",
+  "Query_duration": 0.7125399112701416
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a876"
+  },
+  "Question": "Weber (1919) said that the state's monopoly of the use of force was legitimated by:",
+  "Option A": "charismatic authority",
+  "Option B": "rational-legal authority",
+  "Option C": "traditional authority",
+  "Option D": "value-rational authority",
+  "Answer": "B",
+  "ChatGPT's response": "B) rational-legal authority",
+  "Query_duration": 0.5703909397125244
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a877"
+  },
+  "Question": "Sullivan's (2000) study suggested that the proportion of housework men did was greatest when:",
+  "Option A": "they had rediscovered themselves as 'new men'",
+  "Option B": "their wives were at home and nagged them all the time",
+  "Option C": "exciting gadgets like the hoover and electric iron were invented",
+  "Option D": "they were unemployed or both partners worked full time",
+  "Answer": "D",
+  "ChatGPT's response": "D) they were unemployed or both partners worked full time",
+  "Query_duration": 0.6850709915161133
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a878"
+  },
+  "Question": "The shift from custodial to joint parenthood after divorce means that:",
+  "Option A": "fathers are more likely to be absent from their children's lives",
+  "Option B": "one parent has total responsibility for the child's welfare and socialization",
+  "Option C": "both parents are expected to co-operate in the continued care of their children",
+  "Option D": "parents must provide for all of their children in equal measure",
+  "Answer": "C",
+  "ChatGPT's response": "C) both parents are expected to co-operate in the continued care of their children",
+  "Query_duration": 1.9368929862976074
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a879"
+  },
+  "Question": "Émile Durkheim believed the primary focus of sociology should be which of the following?",
+  "Option A": "Social action",
+  "Option B": "Social facts",
+  "Option C": "Class relations",
+  "Option D": "Cultural dynamics",
+  "Answer": "B",
+  "ChatGPT's response": "B) Social facts",
+  "Query_duration": 1.0888710021972656
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87a"
+  },
+  "Question": "The term \"sociology\" was coined in the early 1800s by which of the following?",
+  "Option A": "Auguste Comte",
+  "Option B": "Robert K. Merton",
+  "Option C": "Karl Marx",
+  "Option D": "Emile Durkheim",
+  "Answer": "A",
+  "ChatGPT's response": "A) Auguste Comte",
+  "Query_duration": 0.6139750480651855
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87b"
+  },
+  "Question": "In their study of depression, Brown & Harris (1978) found that:",
+  "Option A": "women's susceptibility to stress depended on their levels of social support",
+  "Option B": "self-reported depression is highest amongst men and the relatively affluent",
+  "Option C": "men and women have fairly similar levels of diagnosed depression",
+  "Option D": "men are more vulnerable to depression because of conventional gender roles",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.7101778984069824
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87c"
+  },
+  "Question": "The alternative form of 'network organization' means that:",
+  "Option A": "work can be subcontracted out to independent suppliers and retailers",
+  "Option B": "business transactions occur only through electronic communication",
+  "Option C": "the Japanese model is applied, through lateral networks of flexible roles",
+  "Option D": "activities are redistributed equally between men and women",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.5124039649963379
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87d"
+  },
+  "Question": "Margaret Mead suggested that:",
+  "Option A": "adolescence and gender roles varied between societies and so were culturally determined",
+  "Option B": "gender roles in three New Guinea societies were identical and so must be biologically determined",
+  "Option C": "adolescence in the USA is a time of relative calm compared to the experience in Japan and Europe",
+  "Option D": "anthropological fieldwork can be problematic because the researcher's values affect the way they interpret their observations",
+  "Answer": "A",
+  "ChatGPT's response": "A) adolescence and gender roles varied between societies and so were culturally determined",
+  "Query_duration": 0.9176762104034424
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87e"
+  },
+  "Question": "The term 'secondary deviation' refers to:",
+  "Option A": "the punishment or stigmatization of deviant acts",
+  "Option B": "the labelling of an act as deviant through social reactions to it",
+  "Option C": "the ways in which taking on a deviant role affects future action",
+  "Option D": "all of the above",
+  "Answer": "D",
+  "ChatGPT's response": "C) the ways in which taking on a deviant role affects future action",
+  "Query_duration": 1.4341092109680176
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a87f"
+  },
+  "Question": "The effect of the Internet upon the public sphere has been to:",
+  "Option A": "repress it, by promoting only the interests of elite groups",
+  "Option B": "revive it, by reaffirming a commitment to freedom of speech",
+  "Option C": "reproduce it, by emphasizing face-to-face contact with peer groups",
+  "Option D": "replace it with a superior form of communication",
+  "Answer": "B",
+  "ChatGPT's response": "B)",
+  "Query_duration": 0.5085179805755615
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a880"
+  },
+  "Question": "Weber said that the 'spirit of capitalism' could be traced back to:",
+  "Option A": "the movement towards religious pluralism",
+  "Option B": "inspirational Protestant groups who revived religious ideas",
+  "Option C": "new religious movements who rejected traditional forms of labour",
+  "Option D": "Calvinists who engaged in ascetic practices to gain signs of salvation",
+  "Answer": "D",
+  "ChatGPT's response": "D) Calvinists who engaged in ascetic practices to gain signs of salvation",
+  "Query_duration": 1.020900011062622
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a881"
+  },
+  "Question": "The terms 'crisis of the 1970s' is used to refer to:",
+  "Option A": "declining profits and rising unemployment",
+  "Option B": "the eradication of the welfare state",
+  "Option C": "rising divorce rates and the decline of the traditional family",
+  "Option D": "an unfortunate twist in fashion sensibility",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.45877885818481445
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a882"
+  },
+  "Question": "The Macpherson Report highlighted the increasing problem of:",
+  "Option A": "hate crimes: violence against ethnic minorities simply because of their race",
+  "Option B": "institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions",
+  "Option C": "overt racism in the police force that must be tackled by institutional reforms",
+  "Option D": "growing numbers of asylum seekers in need of long term accommodation",
+  "Answer": "B",
+  "ChatGPT's response": "B) institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions",
+  "Query_duration": 1.1752848625183105
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a883"
+  },
+  "Question": "Seven people standing silently while waiting for a bus at a bus stop is an example of which of the following?",
+  "Option A": "A primary group",
+  "Option B": "A secondary group",
+  "Option C": "An aggregate",
+  "Option D": "A social category",
+  "Answer": "C",
+  "ChatGPT's response": "C) An aggregate",
+  "Query_duration": 0.7950901985168457
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a884"
+  },
+  "Question": "Environmentalist social movements are global in the sense that:",
+  "Option A": "they increase our awareness of risks that affect the whole planet",
+  "Option B": "they appeal to universal values and human rights",
+  "Option C": "they use global media to generate publicity",
+  "Option D": "all of the above",
+  "Answer": "D",
+  "ChatGPT's response": "D) all of the above",
+  "Query_duration": 0.5801341533660889
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a885"
+  },
+  "Question": "Chodorow (1978) argued that gender socialization occurred through:",
+  "Option A": "both boys and girls being closely attached to their mothers, but then boys breaking away",
+  "Option B": "girls being attached to their mothers but then breaking away",
+  "Option C": "boys being attached to their fathers and girls to their mothers",
+  "Option D": "both boys and girls being closely attached to their fathers, but girls breaking away",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.5656399726867676
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a886"
+  },
+  "Question": "The 'new man' of the 1980s was alleged to be:",
+  "Option A": "sensitive, caring, and emotional",
+  "Option B": "laddish, aggressive, and violent",
+  "Option C": "a strong and dependable breadwinner",
+  "Option D": "openly bisexual and proud of it",
+  "Answer": "A",
+  "ChatGPT's response": "A) sensitive, caring, and emotional",
+  "Query_duration": 0.7134499549865723
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a887"
+  },
+  "Question": "In the 1960s, comprehensive schools did not eradicate class inequalities in education because:",
+  "Option A": "they tended to recruit pupils from the inner cities and traditionally working class areas",
+  "Option B": "selective schools could still 'cream off' the most able pupils, while the comprehensives put children into ability streams",
+  "Option C": "teachers in comprehensive schools used the restricted code in the classroom, whereas working class pupils used elaborated codes of speech",
+  "Option D": "national testing and league tables made the new schools highly competitive and selective",
+  "Answer": "B",
+  "ChatGPT's response": "B)",
+  "Query_duration": 0.6119651794433594
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a888"
+  },
+  "Question": "In idealized views of science, the experimental method is said to involve:",
+  "Option A": "testing out new research methods to see which one works best",
+  "Option B": "isolating and measuring the effect of one variable upon another",
+  "Option C": "using personal beliefs and values to decide what to study",
+  "Option D": "interpreting data subjectively, drawing on theoretical paradigms",
+  "Answer": "B",
+  "ChatGPT's response": "B) isolating and measuring the effect of one variable upon another",
+  "Query_duration": 0.8165240287780762
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a889"
+  },
+  "Question": "An 'open' society is one that:",
+  "Option A": "grants every member equal status",
+  "Option B": "does not have any official secrets in its government",
+  "Option C": "has permissive attitudes towards sexual behaviour",
+  "Option D": "allows people to move between levels of the hierarchy",
+  "Answer": "D",
+  "ChatGPT's response": "D) allows people to move between levels of the hierarchy",
+  "Query_duration": 1.7445039749145508
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88a"
+  },
+  "Question": "The Nation of Islam group appealed to:",
+  "Option A": "British-born second generation immigrants from the Asian subcontinent",
+  "Option B": "White Americans who wanted to convert to Islam",
+  "Option C": "African-Americans who felt excluded from the 'ethnic melting pot' in the USA",
+  "Option D": "African-Caribbeans who lived in the inner cities and had a distinctive youth culture",
+  "Answer": "C",
+  "ChatGPT's response": "C) African-Americans who felt excluded from the 'ethnic melting pot' in the USA",
+  "Query_duration": 1.1154029369354248
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88b"
+  },
+  "Question": "Comte's term 'positivism' refers to:",
+  "Option A": "a theory that emphasizes the positive aspects of society",
+  "Option B": "the precise, scientific study of observable phenomena",
+  "Option C": "a theory that posits difficult questions and sets out to answer them",
+  "Option D": "an unscientific set of laws about social progress",
+  "Answer": "B",
+  "ChatGPT's response": "B) the precise, scientific study of observable phenomena",
+  "Query_duration": 1.2243969440460205
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88c"
+  },
+  "Question": "Theories of racialized discourse suggest that:",
+  "Option A": "race is an objective way of categorizing people on biological grounds",
+  "Option B": "the idea of race is socially constructed through powerful ideologies",
+  "Option C": "race relations in Britain and America can be traced back to colonial times",
+  "Option D": "people choose their racial identity and this becomes fixed",
+  "Answer": "B",
+  "ChatGPT's response": "B) the idea of race is socially constructed through powerful ideologies",
+  "Query_duration": 0.9257221221923828
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88d"
+  },
+  "Question": "A major car accident occurs. One man stops his car and starts helping people. After seeing him stop, others also stop and start helping. Which of the following theories best explains the scenario?",
+  "Option A": "Convergence",
+  "Option B": "Emergent-norm",
+  "Option C": "Contagion",
+  "Option D": "Value-added",
+  "Answer": "B",
+  "ChatGPT's response": "B) Emergent-norm",
+  "Query_duration": 0.5879008769989014
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88e"
+  },
+  "Question": "A new highway extends from a major city though an area used for farmland. Which of the following is most likely to happen as a result?",
+  "Option A": "Farmers will increase the acreage under production.",
+  "Option B": "The city will evolve into a multiple nuclei model.",
+  "Option C": "Suburbanization will develop because the time it takes to commute to the city has been decreased.",
+  "Option D": "People from the countryside will move to the city, depopulating the farmland region.",
+  "Answer": "C",
+  "ChatGPT's response": "C) Suburbanization will develop because the time it takes to commute to the city has been decreased.",
+  "Query_duration": 1.0414149761199951
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a88f"
+  },
+  "Question": "According to W. E. B. Dubois, progress for African Americans in the aftermath of slavery",
+  "Option A": "depended on the small group of African Americans receiving the same thorough and extensive education as the most talented White Americans were able to access",
+  "Option B": "involved their use of skills they already had from farming, domestic work, and labors of rural life rather than being forced to learn new skills in the late 1800s",
+  "Option C": "required that they be trained and prepared as craftspeople and service employees so they could become immediately self-sufficient",
+  "Option D": "required them to move to large cities where they would be accepted as equals in government, religion, and education",
+  "Answer": "A",
+  "ChatGPT's response": "A)",
+  "Query_duration": 0.6131441593170166
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a890"
+  },
+  "Question": "Pluralist theories suggest that:",
+  "Option A": "the state's power can be exercised through several different administrative structures",
+  "Option B": "the ruling elite is composed of people from various class backgrounds",
+  "Option C": "political parties must compete for the votes of 'consumers' in the electorate",
+  "Option D": "there is a close alignment between class background and party preference",
+  "Answer": "C",
+  "ChatGPT's response": "A) the state's power can be exercised through several different administrative structures",
+  "Query_duration": 1.0205450057983398
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a891"
+  },
+  "Question": "The term 'over-urbanization' means that:",
+  "Option A": "life in modern Western cities is so far removed from that of the Third World that we find it difficult to understand these societies",
+  "Option B": "in poorer countries, the rapidly developing cities drain resources from the rural areas",
+  "Option C": "the extent to which urbanization affects development has been exaggerated",
+  "Option D": "governments are so preoccupied with urbanization in the West that they forget to attend to problems in the Third World",
+  "Answer": "B",
+  "ChatGPT's response": "B) in poorer countries, the rapidly developing cities drain resources from the rural areas",
+  "Query_duration": 1.0257799625396729
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a892"
+  },
+  "Question": "The capitalist class of the mid-twentieth century were said to join the upper class because they:",
+  "Option A": "participated in the same leisure pursuits and events of the 'social calendar'",
+  "Option B": "emulated the lifestyle and cultural values of the traditional aristocracy",
+  "Option C": "owned companies and financial assets that generated wealth through corporations",
+  "Option D": "had direct, personal ownerships of land and businesses as physical assets",
+  "Answer": "C",
+  "ChatGPT's response": "C) owned companies and financial assets that generated wealth through corporations",
+  "Query_duration": 0.8180429935455322
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a893"
+  },
+  "Question": "The term inter-generational mobility refers to:",
+  "Option A": "movement into a different occupational category over a person's lifetime",
+  "Option B": "movement into different occupational categories between generations",
+  "Option C": "movement into a higher occupational category",
+  "Option D": "movement into an occupation that generates a lower income",
+  "Answer": "B",
+  "ChatGPT's response": "B) movement into different occupational categories between generations",
+  "Query_duration": 0.7096102237701416
+},
+{
+  "_id": {
+    "$oid": "655fc73be8cfbfc34e14a894"
+  },
+  "Question": "The term 'culture industry', used by members of the Frankfurt School, referred to:",
+  "Option A": "the globalization of culture through new technologies",
+  "Option B": "the way in which cultural products were bought and sold for profit",
+  "Option C": "the development of subcultures and counter-cultures in society",
+  "Option D": "the way in which industrialization had created new means of communication",
+  "Answer": "B",
+  "ChatGPT's response": "B) the way in which cultural products were bought and sold for profit",
+  "Query_duration": 0.9211108684539795
+}]
