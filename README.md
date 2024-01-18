@@ -27,7 +27,7 @@ uvicorn main:app --reload
 This will start the server, allowing interaction with the ChatGPT model and handling of data analysis and database operations.
 
 ## API Endpoints
-- */query-next-unanswered-question:* Fetches and displays the next unanswered question from the database.
+- `/query-next-unanswered-question:` Fetches and displays the next unanswered question from the database.
 
 ## Contributing
 Your contributions are welcome! Feel free to fork the repository, make your improvements, and submit a pull request.
